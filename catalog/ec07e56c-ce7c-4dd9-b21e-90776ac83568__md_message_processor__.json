@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "mounika"
+        }
+    },
+    "id": "ec07e56c-ce7c-4dd9-b21e-90776ac83568",
+    "version": "5.2.0.0"
+}

@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "harika"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "mounika"
+        }
+    },
+    "id": "9305d14f-6e61-4aa5-99d8-d86e348ef7b5",
+    "version": "5.2.0.0"
+}
